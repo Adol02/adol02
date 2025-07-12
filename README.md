@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Hareni+Raj!;Java+Developer+%7C+Spring+Boot+%7C+MySQL;Turning+Code+Into+Magic+Every+Day!" />
 </div>
+<table>
+    <tr>
+      <td>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=100&section=header&text=Hi%20I'm%20Hareni%20Raj!&fontSize=30&fontColor=ffffff&fontAlignY=55" width="100%">
+      </td>
+    </tr>
+  </table>
 
 ---
 
@@ -30,7 +37,7 @@
 
 ### 🗂️ My Dev Arsenal
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,html,css,vscode,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,html,css,vscode,postman,javascript,jsp,servlet&theme=dark" />
 
 ---
 
